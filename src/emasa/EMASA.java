@@ -6,7 +6,7 @@
 package emasa;
 
 import javax.persistence.Persistence;
-
+/*Comentario*/
 
 public class EMASA {
 
